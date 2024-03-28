@@ -11,6 +11,18 @@
     justify-content: space-between; /* Canh chỉnh các phần tử ở hai đầu */
 }
 
+.tren-header {
+    display: flex; /* Hiển thị các phần tử theo chiều ngang */
+    justify-content: space-between; /* Canh chỉnh các phần tử ở hai đầu */
+}
+.tren-header {
+    display: flex; /* Hiển thị các phần tử theo chiều ngang */
+    justify-content: space-between; /* Canh chỉnh các phần tử ở hai đầu */
+}
+.tren-header {
+    display: flex; /* Hiển thị các phần tử theo chiều ngang */
+    justify-content: space-between; /* Canh chỉnh các phần tử ở hai đầu */
+}
 .lienhe {
     background-color: #ff9999; /* Màu nền cho phần liên hệ */
     width: 80%; /* Độ rộng */
